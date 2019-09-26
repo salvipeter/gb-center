@@ -1,0 +1,4 @@
+*.so
+*~
+*.o
+gb-center-test
